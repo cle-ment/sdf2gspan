@@ -2,6 +2,8 @@
 
 Converts mol/sdf into a gspan dataset. Assigns targets from target file to graphs.
 
+Initial idea from <https://github.com/amaunz/data-yeast-ac/blob/master/sdf2gsp.pl>
+
 ## instructions
 
 * To convert your sdf files and label file into a gspan dataset run: `sdf2gsp.pl <path to sdf files> <sdf file list in correct label order>
